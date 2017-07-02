@@ -28,11 +28,11 @@
   <project path="kernel/oneplus/onyx" name="CertifiedBlyndGuy/android_kernel_oneplus_onyx" revision="cm-14.1-sultan" />
   <project path="packages/apps/CMUpdater" name="CertifiedBlyndGuy/android_packages_apps_CMUpdater" revision="cm-14.1-sultan" />
   <project path="packages/apps/FMRadio" name="CertifiedBlyndGuy/android_packages_apps_FMRadio" revision="cm-14.1-sultan" />
+  <project path="packages/apps/Snap" name="CertifiedBlyndGuy/android_packages_apps_Snap" revision="onyx/cm-14.1-sultan" />
   <project path="vendor/oneplus" name="CertifiedBlyndGuy/proprietary_vendor_oneplus" revision="cm-14.1-sultan" />
 
   <!--Sultan-->
-  <project path="hardware/qcom/camera" name="sultanxda/android_hardware_qcom_camera" revision="bacon/cm-14.1-sultan" />
-  <project path="packages/apps/Snap" name="sultanxda/android_packages_apps_Snap" revision="bacon/cm-14.1-sultan" />
+  <project path="hardware/qcom/camera" name="sultanxda/android_hardware_qcom_camera" revision="onyx/cm-14.1-sultan" />
   <project path="packages/apps/WeatherProviders" name="sultanxda/android_packages_apps_WeatherProviders" revision="cm-14.1" />
 
  <!--Repositories to remove-->
