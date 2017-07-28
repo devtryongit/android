@@ -7,6 +7,7 @@
  <!--Repositories to replace-->
   <remove-project name="LineageOS/android_hardware_qcom_audio" />
   <remove-project name="LineageOS/android_hardware_qcom_camera" />
+  <remove-project name="LineageOS/android_hardware_ril" />
   <remove-project name="LineageOS/android_packages_apps_CMUpdater" />
   <remove-project name="LineageOS/android_packages_apps_FMRadio" />
   <remove-project name="LineageOS/android_packages_apps_Snap" />
@@ -23,6 +24,7 @@
   <!--devtry-->
   <project path="device/oneplus/onyx" name="devtryongit/android_device_oneplus_onyx" revision="cm-14.1-sultan" />
   <project path="hardware/qcom/audio" name="devtryongit/android_hardware_qcom_audio" revision="cm-14.1-sultan" />
+  <project path="hardware/ril-caf" name="devtryongit/android_hardware_ril" revision="cm-13.0-caf" />
   <project path="kernel/oneplus/onyx" name="devtryongit/android_kernel_oneplus_onyx" revision="cm-14.1-sultan" />
   <project path="packages/apps/FMRadio" name="devtryongit/android_packages_apps_FMRadio" revision="cm-14.1-sultan" />
   <project path="packages/apps/Snap" name="devtryongit/android_packages_apps_Snap" revision="onyx/cm-14.1-sultan" />
